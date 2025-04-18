@@ -7,7 +7,7 @@ To build an interactive and insightful sales dashboard that visualizes sales per
 
 ## Dataset
 
-- **File:** `Superstore_Sales.csv`
+- **File:** `Superstore.csv`
 - **Columns Used:** 
   - Order Date
   - Region
